@@ -1,5 +1,4 @@
-# FILL IN INFO ABOUT YOUR GAME HERE. 
-
-DO NOT LEAVE IT LIKE THIS!!!
-
-Please? Please, give me content. I'm begging you. It's not that hard. Thanks.
+An inventory system using Scriptable Object and Dictionaries
+Could save + load using database
+Updating on Week 9's project using more Dictionaries to create the serialized index in the Database
+Ref: https://www.youtube.com/watch?v=232EqU1k9yQ
